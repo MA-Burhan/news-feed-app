@@ -1,0 +1,14 @@
+body {
+    background-color: #C8D9E4
+}
+
+.card-1 {
+    border: none;
+    border-radius: 10px;
+    width: 100%;
+    background-color: #fff
+}
+
+.icons i {
+    margin-left: 20px
+}
